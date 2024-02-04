@@ -1,4 +1,4 @@
-name: Dynamic Scan Using ZAP
+name: Dynamic Scanning Using ZAP
 on: [push]
 jobs:
   zap_scan:
